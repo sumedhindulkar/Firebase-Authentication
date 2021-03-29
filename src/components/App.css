@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.signup {
+  height: 100vh;
+  background-color: rgb(255, 171, 44);
+}
+.signup-form {
+  width: 500px;
+}
+
+.signup-form-input {
+  border-radius: 10px;
+  width: 70%;
+  border: none;
+}
+.signup-form-button {
+  border-radius: 10px;
+  width: 70%;
+  border: none;
+  background-color: rgb(54, 77, 153);
+  color: #fff;
+}
